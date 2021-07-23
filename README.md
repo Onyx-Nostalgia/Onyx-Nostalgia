@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onyx-Nostalgia
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning python , javascript , Comsci 
-- 💞️ I’m looking to collaborate on Python-expert , AI profressor , Backend Dev
+- 🌱 I’m currently learning python , javascript , Data-sci , Big-data and Data warehouse
+- 💞️ I’m looking to collaborate on Python-expert , AI profressor , Data Engineer ,Backend Dev
 - 📫 How to reach me ... My Email. . . Find it !!
 
 <!---
