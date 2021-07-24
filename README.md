@@ -1,3 +1,5 @@
+![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
+
 - 👋 Hi, I’m @Onyx-Nostalgia
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python , javascript , Data-sci , Big-data and Data warehouse
