@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Onyx-Nostalgia
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning python , javascript , Data-sci , Big-data and Data warehouse
-- 💞️ I’m looking to collaborate on Python-expert , AI profressor , Data Engineer ,Backend Dev
+- 🌱 I’m like Python, Big-data, Linux, Infra Cloud
+- 💞️ I’m looking to collaborate on Python-expert, AI professor, Data Engineer, Python Software Engineer, Solution & Data Architecher
 - 📫 How to reach me ... My Email. . . Find it !!
 
 [![@onyxnostalgia's Holopin board](https://holopin.me/onyxnostalgia)](https://holopin.io/@onyxnostalgia)
