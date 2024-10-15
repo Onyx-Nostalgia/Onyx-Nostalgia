@@ -1,8 +1,10 @@
 ![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m @Onyx-Nostalgia
-- 👀 I’m interested in Python, big data, Linux, Infra Cloud, Pentest/Security, and Game translation (into the Thai language)
 - 📫 How to reach me ... My Email. . . Find it !!
+
+#### motivation
+**🐍 PYTHON**, 🏗️big data, 🐧Linux,☁️ Infra Cloud, 👾Pentest/Security, and🎮 Game translation (into the 🛕Thai language)
 
 #### technology stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
