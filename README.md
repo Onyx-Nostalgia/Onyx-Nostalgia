@@ -4,7 +4,13 @@
 - 📫 How to reach me ... My Email. . . Find it !!
 
 #### <img src="https://media.tenor.com/r7Bbg7nLhkcAAAAi/blob-discors.gif" width="30px"> motivation 
-**🐍 PYTHON**, 🏗️big data, 🐧Linux,☁️ Infra Cloud, 👾Pentest/Security, and🎮 Game translation (into the 🛕Thai language)
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25px"> PYTHON**, 
+🏗️Big data, 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="20px">Linux,
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20px">Infra Cloud, 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="20px">Pentest/Security, 
+and 
+🎮Game translation (into the 🛕Thai language)
 
 #### technology stack:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
