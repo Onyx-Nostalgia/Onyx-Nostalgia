@@ -3,7 +3,7 @@
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m @Onyx-Nostalgia
 - 📫 How to reach me ... My Email. . . Find it !!
 
-#### motivation
+#### <img src="https://media.tenor.com/r7Bbg7nLhkcAAAAi/blob-discors.gif" width="30px"> motivation 
 **🐍 PYTHON**, 🏗️big data, 🐧Linux,☁️ Infra Cloud, 👾Pentest/Security, and🎮 Game translation (into the 🛕Thai language)
 
 #### technology stack:
