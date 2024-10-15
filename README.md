@@ -1,4 +1,5 @@
 ![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
+![image](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png)
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m @Onyx-Nostalgia
 - 📫 How to reach me ... My Email. . . Find it !!
