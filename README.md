@@ -1,8 +1,18 @@
-![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
-![image](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Jellyfish.png)
+<div align="center">
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I’m @Onyx-Nostalgia
-- 📫 How to reach me ... My Email. . . Find it !!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m @Onyx-Nostalgia
+
+📫 How to reach me ... My Email. . . Find it !!
+  
+![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
+
+#### Daily Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="25px" >
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://readme-jokes.vercel.app/api?theme=onedark&hideBorder)
+
+</div>
+
 
 #### <img src="https://media.tenor.com/r7Bbg7nLhkcAAAAi/blob-discors.gif" width="30px"> motivation 
 **<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25px"> PYTHON**, 
@@ -51,7 +61,5 @@ and
 
 [![@onyxnostalgia's Holopin board](https://holopin.me/onyxnostalgia)](https://holopin.io/@onyxnostalgia)
 
-<!---
-Onyx-Nostalgia/Onyx-Nostalgia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Daily Humor
+![](https://readme-jokes.vercel.app/api?theme=onedark&hideBorder)
