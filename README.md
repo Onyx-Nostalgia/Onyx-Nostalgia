@@ -60,6 +60,3 @@ and
 ![trophy](https://github-profile-trophy.vercel.app/?username=Onyx-Nostalgia&theme=onedark&no-frame=true)
 
 [![@onyxnostalgia's Holopin board](https://holopin.me/onyxnostalgia)](https://holopin.io/@onyxnostalgia)
-
-### Daily Humor
-![](https://readme-jokes.vercel.app/api?theme=onedark&hideBorder)
