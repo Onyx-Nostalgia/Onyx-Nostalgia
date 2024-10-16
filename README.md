@@ -46,6 +46,9 @@ and
 ![dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+### 🏆 Github Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Onyx-Nostalgia&theme=onedark&no-frame=true)
+
 [![@onyxnostalgia's Holopin board](https://holopin.me/onyxnostalgia)](https://holopin.io/@onyxnostalgia)
 
 <!---
