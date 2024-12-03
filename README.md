@@ -2,9 +2,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m @Onyx-Nostalgia
 
-📫 How to reach me ... My Email. . . Find it !!
+📫 How to reach me nostalgia.onyx@gmail.com !!
   
-![image](https://github.com/Onyx-Nostalgia/Onyx-Nostalgia/blob/main/fire.gif)
+![image](https://raw.githubusercontent.com/Onyx-Nostalgia/random-gif/master/outputs/technology.gif)
 
 #### Daily Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="25px" >
 
