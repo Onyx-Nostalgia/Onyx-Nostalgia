@@ -4,7 +4,7 @@
 
 📫 How to reach me nostalgia.onyx@gmail.com !!
   
-![image](https://raw.githubusercontent.com/Onyx-Nostalgia/random-gif/master/outputs/technology.gif)
+![image](https://raw.githubusercontent.com/Onyx-Nostalgia/random-gif/master/outputs/meme.gif)
 
 #### Daily Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="25px" >
 
