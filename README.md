@@ -2,7 +2,11 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m @Onyx-Nostalgia
 
-📫 How to reach me nostalgia.onyx@gmail.com !!
+(nostalgia.onyx@gmail.com)
+
+📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:nostalgia.onyx@gmail.com)
+
+[![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#White)](https://github.com/sponsors/Onyx-Nostalgia)
 
 #### Random Meme <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" alt="Zany Face" width="35" />
 
