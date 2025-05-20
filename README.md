@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%3EOnyx%20Nostalgia&fontSize=90&animation=fadeIn&fontAlignY=38&desc=[%20Software%20|%20Data%20|%20Cloud%20|%20Platform%20]%20+%20Engineer&descAlignY=60&descAlign=50)
+
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I’m @Onyx-Nostalgia
@@ -66,3 +68,5 @@ and
 ![trophy](https://github-profile-trophy.vercel.app/?username=Onyx-Nostalgia&theme=onedark&no-frame=true)
 
 [![@onyxnostalgia's Holopin board](https://holopin.me/onyxnostalgia)](https://holopin.io/@onyxnostalgia)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer)
