@@ -12,7 +12,7 @@
 
 #### Random Meme <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zany%20Face.png" alt="Zany Face" width="35" />
 
-![image](https://raw.githubusercontent.com/Onyx-Nostalgia/random-gif/master/outputs/meme.gif)
+![image](https://gifroz.vercel.app)
 
 #### Daily Quotes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="25px" >
 
